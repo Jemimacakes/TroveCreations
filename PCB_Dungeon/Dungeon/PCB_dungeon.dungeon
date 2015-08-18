@@ -1,0 +1,51 @@
+[Dungeon]
+
+Type = Dungeon
+
+[PCBDungeon]
+Blueprint = PCB_dungeon.blueprint
+Quantity = 1
+
+[arduinoV1]
+Blueprint = PCB_dungeon_arduino_v1.blueprint
+Quantity = 1
+
+[arduinoV2]
+Blueprint = PCB_dungeon_arduino_v2.blueprint
+Quantity = 1
+
+[fuseV1]
+Blueprint = PCB_dungeon_fuse_v1.blueprint
+Quantity = 1
+
+[fuseV2]
+Blueprint = PCB_dungeon_fuse_v2.blueprint
+Quantity = 1
+
+[ICV1]
+Blueprint = PCB_dungeon_IC_v1.blueprint
+Quantity = 1
+
+[ICV2]
+Blueprint = PCB_dungeon_IC_v2.blueprint
+Quantity = 1
+
+[molexV1]
+Blueprint = PCB_dungeon_molex_v1.blueprint
+Quantity = 1
+
+[molexV2]
+Blueprint = PCB_dungeon_molex_v2.blueprint
+Quantity = 1
+
+[molex2]
+Blueprint = PCB_dungeon_molex2.blueprint
+Quantity = 1
+
+[relayF2V1]
+Blueprint = PCB_dungeon_relay_f2_v1.blueprint
+Quantity = 1
+
+[relayF2V2]
+Blueprint = PCB_dungeon_relay_f2_v2.blueprint
+Quantity = 1
